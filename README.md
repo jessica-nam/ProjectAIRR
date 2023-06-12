@@ -5,6 +5,7 @@
 - pip install numpy
 - pip install gower
 - pip install -U sentence-transformers
+- pip install nltk==3.4.5
 
 ## To Do
 - Re-implement data preprocessing (IN PROGRESS)
