@@ -8,8 +8,6 @@
 - pip install nltk==3.4.5
 
 ## To Do
-- Re-implement data preprocessing (IN PROGRESS)
-- Re-evaluate data source
+- Re-evaluate data source [IN PROGRESS]
 - Split training and testing data
-- Add long description and knowledge base info to unstructured text data for training
 - Update confluence page on why certain methodologies were used
